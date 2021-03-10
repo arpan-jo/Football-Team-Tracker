@@ -1,0 +1,14 @@
+.card-image-top {
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card {
+    width: 13rem;
+}
+@media (max-width: 768px) {
+    .card {
+        width: 18rem;
+    }
+}
