@@ -88,11 +88,12 @@ const Details = () => {
                         </p>
                     </div>
                     <div>
-                        {strGender?.toLowerCase() === 'male' ? (
-                            <img className="image" src={male} alt="" />
-                        ) : (
-                            <img className="image" src={female} alt="" />
-                        )}
+                        {strGender &&
+                            (strGender?.toLowerCase() === 'male' ? (
+                                <img className="image" src={male} alt="" />
+                            ) : (
+                                <img className="image" src={female} alt="" />
+                            ))}
                     </div>
                 </div>
                 <div className="mx-5 px-5 mt-3 pb-3">
