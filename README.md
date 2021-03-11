@@ -1,10 +1,12 @@
-[Live Site:-](https://elated-colden-7f6e16.netlify.app/)
+[Live Site](https://elated-colden-7f6e16.netlify.app/)
 
-Some code features:
-⋅⋅\* Router is dynamic
-⋅⋅\* Bootstrap and plain css
-⋅⋅\* Team details load using dynamic id
-⋅⋅\* Font Awesome & social Font Awesome
-⋅⋅\* Banner and Image are dynamic
-⋅⋅\* Resposive for Mobile and PC
-⋅⋅\* Coditional Formattion for male or female image in details etc.
+<dl>
+  <dt>Some code features</dt>
+  <dd>Router is dynamic</dd>
+  <dd>Bootstrap and plain css</dd>
+  <dd>Team details load using dynamic Id</dd>
+  <dd>Font Awesome & social Font Awesome</dd>
+  <dd>Banner and Image are dynamic</dd>
+  <dd>Resposive for Mobile and PC</dd>
+  <dd>Coditional Formattion for male or female image in details etc.</dd> 
+</dl>
