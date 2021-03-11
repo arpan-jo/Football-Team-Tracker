@@ -49,7 +49,6 @@ const Details = () => {
             backgroundRepeat: 'no-repeat',
             backgroundSize: 'cover',
         },
-
         content: {
             height: '100%',
             width: '100%',
